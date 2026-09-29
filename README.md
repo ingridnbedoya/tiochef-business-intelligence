@@ -34,7 +34,16 @@ costs, profitability, invoices, products, and business trends.
 - Top customers
 
 ### Dashboard
-Dashboard screenshots will be added here.
+## Dashboard
+
+### Revenue Overview
+![Revenue Overview Dashboard](images/revenue-overview-dashboard.png)
+
+### Profit Performance
+![Profit Performance Dashboard](images/profit-performance-dashboard.png)
+
+### Category Analysis
+![Category Analysis Dashboard](images/category-analysis-dashboard.png)
 
 ### Data Model
 Data model diagram will be added here.
