@@ -33,7 +33,6 @@ costs, profitability, invoices, products, and business trends.
 - Gross Profit %
 - Top customers
 
-### Dashboard
 ## Dashboard
 
 ### Revenue Overview
@@ -45,5 +44,5 @@ costs, profitability, invoices, products, and business trends.
 ### Category Analysis
 ![Category Analysis Dashboard](images/category-analysis-dashboard.png)
 
-### Data Model
-Data model diagram will be added here.
+### Start Schema Model
+![Start Schema Model](images/data-model.png)
