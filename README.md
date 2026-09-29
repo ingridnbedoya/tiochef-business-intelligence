@@ -45,4 +45,4 @@ costs, profitability, invoices, products, and business trends.
 ![Category Analysis Dashboard](images/category-analysis-dashboard.png)
 
 ### Start Schema Model
-![Start Schema Model](images/data-model.png)
+![Start Schema Model](images/data-model1.png)
